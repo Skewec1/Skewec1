@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub](https://img.shields.io/badge/Github-Skewec1-brightgreen.svg)](https://github.com/Skewec1)
+
 <!--
 **Skewec1/Skewec1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
