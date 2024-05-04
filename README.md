@@ -1,8 +1,4 @@
 
-<p align="center">
-	<img width="60%" src="D:/Others/电脑高清壁纸/猫猫.jpg">
-</p>
-
 [![GitHub](https://img.shields.io/badge/Github-Skewec1-brightgreen.svg)](https://github.com/Skewec1)
 
 
